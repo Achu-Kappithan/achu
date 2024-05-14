@@ -1,0 +1,354 @@
+.nav-blk{
+    background-color:#191919;
+    width: 100%;
+    height: 100px;
+   
+}
+
+body{
+    margin: 0;
+}
+.boss-logo{
+    height:77px;
+    width: 77px;
+    margin-left:147px;
+} 
+.nav-text{
+    color:#fff;
+    margin-left:25%;
+    margin-top: -18px;
+}
+.Serchbar {
+    position: absolute;
+    left: 866PX;
+    top: 15PX;
+    padding-right: 107px;
+    border-radius: 20PX;
+    padding-bottom: 3px;
+    padding-top: 3PX;
+    background-image:url("https://icon-library.com/images/search-icon-png-transparent/search-icon-png-transparent-18.jpg");
+}
+.serchicon {
+    width: 5mm;
+    position: absolute;
+    left: 73%;
+    top: 18px;
+}
+.settingsicon{
+    width: 6mm;
+    position: absolute;
+    left: 79%;
+    top: 18px;
+
+}
+#settingstext{
+    position: absolute;
+    left: 81%;
+    top: -3px;
+    color: #fff;
+}
+#locationicon{
+    position: absolute;
+    left: 86%;
+    top: 18px;
+    width: 6mm;
+}
+#storetext{
+    position: absolute;
+    left: 88%;
+    top: -3px;
+    color: #fff;
+}
+.container{
+    height: 480px;
+}
+#airbutsimg {
+    height: 125px;
+    width: 130px;
+    position: absolute;
+    top: 202px;
+    right: 1040px;
+}
+#imgair{
+    margin-left:60px;
+}
+.comment{
+    height: 30%;
+    width: 30%;
+    margin-top: -369px;
+    margin-left: 150px;
+    text-align: center;
+    
+}
+.smallcmt{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 0;
+}
+.smallcmt2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.head{
+    font-weight:bolder;
+}
+.button{
+    background-color:#242424;
+    color: #fff;
+    border-radius: 20px;
+    border-color: #fff;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right:30px ;
+}
+.feature{
+    font-weight: lighter ;
+    margin-left: 100PX;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.perent{
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content:space-around;
+
+}
+.chaild1{
+    width: 270px;
+    height: 300px;
+    background-color:#faf6f6;
+}
+.chaild2{
+    width: 270px;
+    height: 300px;
+    background-color:#faf6f6;
+}
+.chaild3{
+    width: 270px;
+    height:300px;
+    background-color:#faf6f6;
+}
+.chaild4{
+    width: 270px;
+    height:300px;
+    background-color:#faf6f6;
+}
+#p1{
+    margin-left: 60px;
+}
+.NEW{
+    height: 20PX;
+    background-color:#666;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 14PX;
+    margin-top: 60PX;
+}
+#item1head{
+    position: absolute;
+    left: 60px;
+    bottom:-272px;
+}
+#item1{
+    position: absolute;
+    left: 60px;
+    bottom:-295px;
+    color: #666;
+}
+.item2head{
+    position: absolute;
+    left: 428px;
+    bottom:-242px;
+}
+.item2{
+    position: absolute;
+    left: 428px;
+    bottom:-265px;
+    color: #666;
+}
+.item3head{
+    position: absolute;
+    left: 820px;
+    bottom:-282px;
+}
+.item3{
+    position: absolute;
+    left:820px;
+    bottom:-305px;  
+    color: #666;
+}
+.item4head{
+    position: absolute;
+    left: 1193px;
+    bottom:-280px;
+}
+.item4{
+    position: absolute;
+    left:1195px;
+    bottom: -315px;
+    color: #666;
+}
+.pic-con1{
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    color: #fff;
+    margin-top: -380px;
+    margin-left: 180px;
+    font-weight: bold;
+}
+.button1{
+    background: #242424;
+    color: #fff;
+    padding: 8px;
+    padding-left:30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    font-weight:bold;
+    border: 0cap;
+}
+.button1:hover{
+    color: black;
+    background-color: white ;
+}
+.picture2{
+    margin-top: 152px;
+}.pic-con2{
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    color: #fff;
+    margin-top: -380px;
+    margin-left: 900px;
+    font-weight: bold;
+}
+.picture4{
+    background-image: url(https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/content_pages/corporate/about_us/sustainability/Sustainability_2020_refresh/01_Home_OurApproach_1920x1043.psd/jcr:content/renditions/cq5dam.web.1920.1920.jpeg);
+    height:700px;
+    width:100%;
+}
+.picture5{
+    height: 640px;
+}
+.pic-con4{
+    width: 700PX;
+    height: 200px;      
+    background-color: #fff;
+    text-align: center;
+    position: absolute;
+    margin-left: 750px;
+    margin-top:300px;
+    font-weight: bold;
+}
+.keepitgreen{
+    font-size: 40px;
+    font: weight 900px;;
+}
+.bottm1{
+    width:100%;
+    height:100px;
+    text-align:center;
+    font-weight: bold;
+    font-size: medium;
+}
+.bottm2{
+    background-color:#191919;
+    height: 90px;
+    width: 100%;
+}
+#fb{
+    height:7mm;
+    width: 7mm;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+#youtub{
+    height:7mm;
+    width: 7mm;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 30px;
+}
+#mail{
+    height:7mm;
+    width: 7mm;
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 30px;
+
+}
+#mailtext{
+    position: absolute;
+    margin-left: 78%;
+    margin-top: 33px;
+    color: #666;
+}
+.footparent{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fchaild1{
+  height: 300px;
+  width: 25%;
+  background-color: black;
+
+}
+.fchaild2{
+    height: 300px;
+    width: 25%;
+    background-color: black;
+  
+}
+.fchaild3{
+    height: 300px;
+    width: 25%;
+    background-color:black;
+  
+}
+ul{
+    color: #fff;
+    padding: 10px;
+    line-height:30px;
+    list-style: none;
+}
+.list{
+    color: #9f9b9b;
+}
+.change{
+    color: #fff;
+}
+.foot2{
+    width: 50%;
+    height: 50px;
+    background-color: black;
+    margin-top:-66px;
+    margin-left: 20%;
+}
+.foot3{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.foot-logo{
+    height:90px;
+    width: 90px;
+    margin-left:147px;
+}
+#final{
+    color:#9f9b9b;
+    position: absolute;
+    margin-top: -51px;
+    margin-left: 260px;
+}
+hr{
+    margin-top:-95px;
+    height: 0px;
+    border: 1 ;
+}
